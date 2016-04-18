@@ -99,8 +99,8 @@
     <string name="account_signed_in_as">Sei collegato come</string>
     <string name="action_settings">Impostazioni</string>
     <string name="actionbar_menu">Menu</string>
-    <string name="add_to_playlist">Add to recordings</string>
-    <string name="add_to_reminder">Add reminder</string>
+    <string name="add_to_playlist">Aggiungi alle registrazioni</string>
+    <string name="add_to_reminder">Aggiungi promemoria</string>
     <string name="added_to_playlist">Aggiunto alle registrazioni</string>
     <string name="advertising_mark">-P-</string>
     <string name="agof_body">Our application uses the Scalable Central Measuring Method (tractor) Infoline Ltd.(http://www.infonline.de) to determine statistical values ​​for the use of our services.Here anonymous readings are collected. The tractor-audience measurement devices used for identification of unique identifiers of the terminal, which will only disclose anonymously. IP addresses are processed in an anonymous form.For more information on tractor process, visit the website of the Infoline Ltd.(https://www.infonline.de), which operates the tractor method, the data protection website AGOF(http://www.agof.de/datenschutz) and the Data Protection website IVW (http://www.ivw.eu).</string>
@@ -113,66 +113,66 @@
     <string name="answer_no">No</string>
     <string name="answer_yes">Si</string>
     <string name="app_name">Zattoo TV</string>
-    <string name="avod">NEW: On Demand</string>
+    <string name="avod">NUOVO: On Demand</string>
     <string name="avod_hours_abr">h</string>
     <string name="avod_min_abr">min</string>
-    <string name="avod_provider_available_videos">%1$d videos</string>
-    <string name="back_to_sign_in">Back to login</string>
+    <string name="avod_provider_available_videos">%1$d video</string>
+    <string name="back_to_sign_in">Torna al login</string>
     <string name="billing_please_wait">Attendere prego…</string>
     <string name="billing_product_own_with_different_account">You have probably used another Zattoo account for in-app purchase via Google Play in the past. Please log out of the Zattoo account you are currently using and log in again with the account you used previously. Alternatively, you can go to zattoo.com/shop with your laptop to manage your subscriptions there.</string>
     <string name="billing_validating_receipt">Validating receipt…</string>
     <string name="brand_ad">Pubblicità Zattoo</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancella</string>
     <string name="cast_avod_not_implemented_hint">Sorry, casting of \"On Demand\" videos is not supported yet.</string>
     <string name="cast_no_media_selected">No media selected</string>
     <string name="categories">Categorie</string>
     <string name="categories_promo_1">NEW IN THIS APP: <b>CATEGORIES</b></string>
-    <string name="categories_promo_2">Sport, Action, Comedy and many more!</string>
-    <string name="categories_promo_3"><b><u>Try now</u></b></string>
-    <string name="categories_promo_hint">NEW!</string>
+    <string name="categories_promo_2">Sport, Azione, Commedia e molto altro!</string>
+    <string name="categories_promo_3"><b><u>Prova ora</u></b></string>
+    <string name="categories_promo_hint">NUOVO!</string>
     <string name="ccl_casting_to_device">Playing on %1$s</string>
     <string name="channel_icon_description">ChannelIcon</string>
     <string name="channels">Canali</string>
     <string name="channels_list_type_claim">Show in my channels list</string>
-    <string name="choose">Choose</string>
+    <string name="choose">Scegli</string>
     <string name="chrome_cast">Cast</string>
     <string name="default_image_description">Immagine:</string>
-    <string name="dialog_alternative_apk_cancel">Remind me later</string>
+    <string name="dialog_alternative_apk_cancel">Ricordamelo più tardi</string>
     <string name="dialog_alternative_apk_confirm">Scarica adesso</string>
     <string name="dialog_alternative_apk_message">There is a new version of Zattoo available on Google Play. Do you want to download it?</string>
     <string name="dialog_alternative_apk_title">New Zattoo App</string>
     <string name="dialog_use_alternative_apk_cancel">Non adesso</string>
-    <string name="dialog_use_alternative_apk_confirm">Open new app</string>
+    <string name="dialog_use_alternative_apk_confirm">Apri nuova app</string>
     <string name="dialog_use_alternative_apk_message">You have a newer version of Zattoo installed. Do you want to open the new version now?</string>
-    <string name="dialog_use_alternative_apk_title">Use New Zattoo App</string>
+    <string name="dialog_use_alternative_apk_title">Usa la nuova app Zattoo</string>
     <string name="done">chiudi</string>
     <string name="edit_favorites">Modifica canali preferiti</string>
     <string name="edit_favorites_bigscreen">Gestisci canali preferiti</string>
     <string name="email_newsletter_full_ch">"Riceverai newsletters da Zattoo e partners.\nAnnulla l\'iscrizione in qualsiasi momento su zattoo.com/account."</string>
     <string name="email_newsletter_full_de">"Riceverai newsletters da Zattoo. Annulla l\'iscrizione in qualsiasi momento su zattoo.com/account."</string>
     <string name="email_newsletter_short">e-mail Newsletters</string>
-    <string name="empty_channels">No info available</string>
+    <string name="empty_channels">Nessuna informazione disponibile</string>
     <string name="empty_favorites">You have not yet added any Favorite Channels. Tap the title of this screen to select All Channels. Then - from the main Channels screen - swipe left on any channel and tap the star to add as a favorite.</string>
     <string name="empty_favorites_bigscreen">You have not yet added any Favorite Channels. Go to Manage Favorite Channels.</string>
-    <string name="empty_search">Nothing found</string>
-    <string name="enable_recall_button_text">Recall starten</string>
+    <string name="empty_search">Nessun risultato</string>
+    <string name="enable_recall_button_text">Recall avviato</string>
     <string name="enable_recall_dialog_text">Ihr HiQ-Abo beinhaltet Recall. Aus rechtlichen Gründen müssen Sie Recall einmal für Ihr Benutzerkonto starten. Ab dann zeichnen wir Ihnen das Programm aller Sender für 7 Tage auf.</string>
-    <string name="enable_recall_dialog_title">Activate Recall</string>
+    <string name="enable_recall_dialog_title">Attiva Recall</string>
     <string name="epg_button_next">></string>
     <string name="epg_button_prev">&lt;</string>
     <string name="epg_detailed_button">Play</string>
     <string name="epg_load">Caricamento...</string>
-    <string name="facebook_register_title">Log in with Facebook</string>
+    <string name="facebook_register_title">Login con Facebook</string>
     <string name="favorites">Canali preferiti</string>
-    <string name="favorites_bigscreen">My Favorite Channels</string>
+    <string name="favorites_bigscreen">I miei canali preferiti</string>
     <string name="feedback">Feedback</string>
-    <string name="feedback_body">"Dear Zattoo
-Here is my feedback:"</string>
+    <string name="feedback_body">"Ciao Zattoo
+Ecco il mio feedback:"</string>
     <string name="forgot_password_text">Having trouble with your login?</string>
     <string name="found_pending_subscribtion">Your subscription has already been purchased and is currently being processed.</string>
     <string name="gear_button">gear</string>
-    <string name="get_hiq">Get HiQ for more channels</string>
-    <string name="google_login_close">Close</string>
+    <string name="get_hiq">Passa a HiQ per avere altri canali</string>
+    <string name="google_login_close">Chiudi</string>
     <string name="google_login_error">Could not login to Google</string>
     <string name="guide">Guida</string>
     <string name="guide_now">ORA</string>
@@ -184,9 +184,11 @@ Here is my feedback:"</string>
     <string name="highlights_since">Iniziato da</string>
     <string name="highlights_yesterday">Ieri</string>
     <string name="info">Info</string>
-    <string name="invalid_connectivity_text">Due to legal reasons, this channel is not available on mobile networks.</string>
-    <string name="invalid_connectivity_title">Channel Unavailable</string>
+    <string name="invalid_connectivity_text">Per motivi legali, questo canale non è disponibile sulle reti mobili.</string>
+    <string name="invalid_connectivity_title">Canale non disponibile</string>
     <string name="invalid_program">Invalid program or show may no longer be accessible</string>
+
+    <!-- LeakCanary -->
     <string name="leak_canary_analysis_failed">Leak analysis failed</string>
     <string name="leak_canary_class_has_leaked">%1$s leaked %2$s</string>
     <string name="leak_canary_could_not_save_text">LeakCanary was unable to save the analysis result.</string>
@@ -195,8 +197,7 @@ Here is my feedback:"</string>
     <string name="leak_canary_delete_all">Delete all</string>
     <string name="leak_canary_display_activity_label">Leaks</string>
     <string name="leak_canary_excluded_row">[Excluded] %s</string>
-    <string name="leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary
-"</string>
+    <string name="leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary"</string>
     <string name="leak_canary_leak_excluded">[Excluded] %1$s leaked %2$s</string>
     <string name="leak_canary_leak_list_title">Leaks in %s</string>
     <string name="leak_canary_no_leak_text">The GC was being lazy.</string>
@@ -209,9 +210,10 @@ Here is my feedback:"</string>
     <string name="leak_canary_share_with">Share with…</string>
     <string name="leak_canary_storage_permission_activity_label">Storage permission</string>
     <string name="leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
+
     <string name="like_in_facebook">Like Zattoo</string>
     <string name="live_preview">Anteprima Live</string>
-    <string name="loading_failed">Loading Failed</string>
+    <string name="loading_failed">Caricamento fallito</string>
     <string name="local_recordings_error_generic_fail_to_record">There was a problem scheduling your recording.</string>
     <string name="local_recordings_error_no_available_recorders">Cannot record show, no recorder available.</string>
     <string name="local_recordings_error_recorder_full">Cannot record show, your recorder does not have sufficient storage capacity.</string>
@@ -224,20 +226,20 @@ Here is my feedback:"</string>
     <string name="local_recordings_stop_recording">Recording canceled</string>
     <string name="local_recordings_will_be_recorded">Scheduled recording</string>
     <string name="login">Accedi</string>
-    <string name="login_acitivty_subscription_expires_date">Expires on %1$s</string>
-    <string name="login_acitivty_subscription_renews_date">Renews on %1$s</string>
-    <string name="login_activity_autorenewing">Autorenewing</string>
+    <string name="login_acitivty_subscription_expires_date">Scade il %1$s</string>
+    <string name="login_acitivty_subscription_renews_date">Si rinnova il %1$s</string>
+    <string name="login_activity_autorenewing">Rinnovo automatico</string>
     <string name="login_activity_logged_in_header">Account Zattoo</string>
     <string name="login_activity_login_failed">Incorrect e-mail or password. Please try again.</string>
-    <string name="login_activity_login_title">Use Your Zattoo Account</string>
+    <string name="login_activity_login_title">Utilizza il tuo account Zattoo</string>
     <string name="login_activity_logout_button">Esci</string>
-    <string name="login_activity_new_account_button">Join!</string>
+    <string name="login_activity_new_account_button">Entra!</string>
     <string name="login_activity_new_to_zattoo">New to Zattoo?</string>
     <string name="login_activity_no_subscriptions">Non hai iscrizioni a Zattoo</string>
     <string name="login_activity_ok_button">Login</string>
     <string name="login_activity_options">Opzioni</string>
-    <string name="login_activity_password_label">Your Zattoo password</string>
-    <string name="login_activity_subscription_header">Zattoo Subscriptions</string>
+    <string name="login_activity_password_label">La tua password Zattoo</string>
+    <string name="login_activity_subscription_header">Sottoscrizioni Zattoo</string>
     <string name="login_activity_system_error">A unexpected error occurred, please try later.</string>
     <string name="login_activity_system_error_locale_support">Locale not supported - user has no channel access.</string>
     <string name="login_activity_system_error_subscription">Subscription required, please contact support.</string>
@@ -446,7 +448,7 @@ Please check your e-mail to continue."</string>
     <string name="subscription_error_market_unavailable">"In app purchase not possible on this device.
 Please visit http://zattoo.com/shop with your desktop browser to buy HiQ."</string>
     <string name="subscription_list">SUBSCRIPTIONS</string>
-    <string name="subscription_manage">Manage</string>
+    <string name="subscription_manage">Gestisci</string>
     <string name="subscription_manage_info">Please visit zattoo.com/account on your PC to manage your subscription.</string>
     <string name="subscription_renewal">Renewal:</string>
     <string name="subscription_requeired">Subscription Required</string>
@@ -455,7 +457,7 @@ Please visit http://zattoo.com/shop with your desktop browser to buy HiQ."</stri
     <string name="subscription_text_head">No active subscriptions</string>
     <string name="switch_zapi">Environments</string>
     <string name="switch_zapi_title">Select environment:</string>
-    <string name="tap_to_retry">Tap to Retry</string>
+    <string name="tap_to_retry">Tocca per riprovare</string>
     <string name="text_login_or">oppure</string>
     <string name="tif_setup_availablechannels">Import your available Zattoo channels.</string>
     <string name="tif_setup_claim">Watch LIVE TV for free.</string>
@@ -496,16 +498,16 @@ zattoo.com/shop"</string>
     <string name="zapi_qa">QA</string>
     <string name="zapi_sandbox">10.4.9.18:3099</string>
     <string name="zapi_staging">Staging</string>
-    <string name="zattoo_hiq_product_description">"for only EUR 9.99/month:
+    <string name="zattoo_hiq_product_description">"per soli 9.99€ al mese:
 
-- 12 additional TV channels by RTL &amp; ProSiebenSat1 groups
-- 30 TV channels in HD
-- No Zattoo ads when changing channels"</string>
+- 12 canali TV addizionali dei gruppi RTL e ProSiebenSat.1
+- 30 canali TV in HD
+- Nessuna pubblicità cambiando canale"</string>
     <string name="tv_edit_favorites_button_start_favorites_mode">Go to my favorite TV mode</string>
     <string name="live_preview_image_url_suffix">320x180</string>
     <string name="INFONLINE_OFFER_IDENTIFIER_PHONE">aadzatto</string>
     <string name="INFONLINE_OFFER_IDENTIFIER_TABLET">aadzattp</string>
-    <string name="accept">Accept</string>
+    <string name="accept">Accetta</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="appboy_attribute_app_version">AppVersion</string>
     <string name="appboy_event_login">login</string>
